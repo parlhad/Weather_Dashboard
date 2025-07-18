@@ -71,3 +71,19 @@ An interactive Weather Dashboard displaying real-time and forecast data like tem
 
 ## 📁 Folder Structure
 
+```plaintext
+weather-dashboard/
+│
+├── assets/                  # Images, backgrounds, icons
+│   └── background.png
+│
+├── PowerBI/                 # PBIX file with full dashboard
+│   └── Weather_Dashboard.pbix
+│
+├── screenshots/             # UI previews and readme assets
+│   └── weather_dashboard_ui.png
+│
+├── README.md                # Project documentation
+└── .gitignore               # Ignore unnecessary files
+cture
+
