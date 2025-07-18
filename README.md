@@ -8,7 +8,7 @@ An interactive Weather Dashboard displaying real-time and forecast data like tem
 👉 [View Dashboard in Power BI](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzMxOGE4ZDQtMTYwOS00ZTEyLWE5MTctMzcwMDI5MzVkMGQ0IiwidCI6ImY5YTQzODQwLWY3OGUtNDE3Yy05ZDgwLTg5NTJhMmJhN2Y0YiJ9)
 ## 🖼️ Sample Screenshot
 
-![Dashboard Screenshot](screenshots/weather_dashboard_ui.png)
+![Dashboard Screenshot](Dashboard.png)
 ---
 
 ## 📘 Project Overview
